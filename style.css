@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    background-color: darkviolet;
+}
+
+h1{
+    color: yellow;
+}
+
+h2{
+    color: springgreen;
+    margin-bottom: 200px;
+}
+
+hr{
+    margin-bottom: 0%;
+}
+
+h3{
+    color: coral;
+}
